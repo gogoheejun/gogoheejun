@@ -7,7 +7,6 @@
 🤩 Latest Blog Post
 
  [2022/1/22 - [알고리즘] DFS - 휴가(삼성 SW역량평가 기출문제)](https://lovenewthing.tistory.com/91) <br>
-[2022/1/22 - [알고리즘] DFS - 휴가(삼성 SW역량평가 기출문제)](https://lovenewthing.tistory.com/90) <br>
 [2022/1/22 - [알고리즘] BFS - 단어변환(프로그래머스)](https://lovenewthing.tistory.com/89) <br>
 [2022/1/21 - [알고리즘] BFS - 네트워크(프로그래머스)](https://lovenewthing.tistory.com/88) <br>
 [2022/1/13 - [카페후기] 강동구 성내동 스터디카페- 더블네거티브](https://lovenewthing.tistory.com/87) <br>
@@ -17,3 +16,4 @@
 [2022/1/9 - [운영체제]데드락(교착상태)](https://lovenewthing.tistory.com/83) <br>
 [2022/1/9 - [운영체제]프로세스 동기화](https://lovenewthing.tistory.com/82) <br>
 [2022/1/6 - [SSAFY] 오티 : 마음가짐](https://lovenewthing.tistory.com/81) <br>
+[2022/1/2 - [데이터베이스 첫걸음] 7장: 트랜잭션과 동시성 제어](https://lovenewthing.tistory.com/80) <br>
